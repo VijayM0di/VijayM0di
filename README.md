@@ -88,12 +88,12 @@ Currently working at **Quantum Bot** in Ahmedabad, where I've reduced manual wor
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VijayM0di&show_icons=true&theme=tokyonight&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VijayM0di&theme=tokyonight)](https://git.io/streak-stats)
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VijayM0di&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VijayM0di&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VijayM0di&layout=compact&theme=tokyonight&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=VijayM0di&color=brightgreen&style=for-the-badge)
 
 </div>
 
